@@ -1,6 +1,9 @@
-public class Main {
+package main.java;
+
+public class SpotifyEngine {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+
 }
